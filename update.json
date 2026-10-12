@@ -1,9 +1,10 @@
 {
-  "enabled": false,
+  "enabled": true,
+  "title": "تحديث جديد لتطبيق ذكري",
+  "message": "يتوفر إصدار جديد يتضمن تحسينات وإصلاحات مهمة.",
   "latest_version": "20.55.977",
   "latest_version_code": 206378,
   "minimum_version_code": 0,
-  "title": "تحديث جديد لتطبيق ذكري",
-  "message": "يتوفر إصدار جديد يتضمن تحسينات وإصلاحات مهمة.",
-  "apk_url": "https://github.com/mohfornet-hash/zekry-updates/releases"
+  "apk_url": "https://github.com/mohfornet-hash/zekry-updates/releases",
+  "updated_at": "2026-10-12T08:19:49.135Z"
 }
